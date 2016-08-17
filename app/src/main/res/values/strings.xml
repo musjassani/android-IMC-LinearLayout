@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IMC-LinearLayout</string>
+    <string name="poidsTxt">Poids : </string>
+    <string name="tailleTxt">Taille : </string>
+    <string name="metreTxt">Mètre</string>
+    <string name="centimetreTxt">Centimètre</string>
+    <string name="megaFonctionTxt">Mega fonction !</string>
+    <string name="calculerImcTxt">Calculer l\'IMC</string>
+    <string name="razTxt">RAZ</string>
+    <string name="resultatTxt">Résultat:</string>
+    <string name="hintTxt">Vous devez cliquer sur le bouton [Calculer l\'IMC] pour obtenir le résultat.</string>
+    <string name="formatNonValide">Votre saisie n\'est pas correct.</string>
+</resources>
